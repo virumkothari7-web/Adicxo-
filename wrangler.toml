@@ -1,9 +1,8 @@
-
-name = "adicxo-edge-api"
+name = "adicxo"
 main = "index.js"
 compatibility_date = "2026-11-05"
 
 [[d1_databases]]
 binding = "DB"
 database_name = "adicxo-db"
-database_id = "YOUR_DATABASE_ID"
+database_id = "6eb366e1-3f66-400d-9a95-f1972befb8c5"
